@@ -49,7 +49,7 @@ export const ProgressSection: React.FC = () => {
       {/* Planning Section */}
       <div className="bg-white rounded-xl p-6">
         <div className="flex justify-between items-center mb-6">
-          <h2 className="text-lg font-semibold text-gray-800">Planning</h2>
+          <h2 className="text-lg font-semibold text-gray-800">Activities</h2>
           <button className="text-gray-400 hover:text-gray-600 transition-colors">
             <MoreHorizontal className="w-6 h-6" />
           </button>
